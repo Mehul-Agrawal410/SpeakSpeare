@@ -18,8 +18,16 @@ This week will be a lighter one for those already familiar with Python. For thos
 - [Pandas](https://www.youtube.com/watch?v=vmEHCJofslg)
 - [Matplotlib](https://www.youtube.com/watch?v=wB9C0Mz9gSo)
 
+Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
+- [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
+- [W1_Assignment1 dataset](<.Week 1/countries.csv>)
+
 ### [Week 2: Introduction to Neural Networks and Pytorch](<./Week 2/>)
 This week we will learn about what Neural Networds are and how we can implement them using Pytorch
 - [Neural Network and Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning) : You do not need to enroll for the course, you can audit all the content for free (apply for financial aid, then there will be a option to audit the course). You do not need to solve the assignments, just watch the videos on X2. Try to get the basic feel of what AndreNG is trying to teach, it's okay if you don't get all the concepts but going through it at least once is recommended, with time you will get a deeper understanding of it.
 - Alternate resources for NN and DL (optional) : [MIT lecture series](https://youtu.be/QDX-1M5Nj7s) and [3Blue1Brown](https://youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 - [Pytorch](https://www.youtube.com/watch?v=c36lUUr864M) : There will be few new terms such as “linear regression”, “logistic regression” first try to look at google to understand them, if you don’t find relevant resources put on group or DM us ( NOTE : Able to find good resources and documentation is a very important skill while coding)
+
+Assignment : Implementation of Neural Networks using Pytorch
+- [W2_Assignment1](<./Week 2/NN_using_PyTorch.ipynb>) 
+- [W1_Assignment1 dataset](<./Week 2/pizza_vs_not.zip>)
