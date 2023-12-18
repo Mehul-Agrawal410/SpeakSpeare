@@ -30,4 +30,4 @@ This week we will learn about what Neural Networds are and how we can implement 
 
 Assignment : Implementation of Neural Networks using Pytorch
 - [W2_Assignment1](<./Week 2/NN_using_PyTorch.ipynb>) 
-- [W1_Assignment1 dataset](<./Week 2/pizza_vs_not.zip>)
+- [W2_Assignment1 dataset](<./Week 2/pizza_vs_not.zip>)
