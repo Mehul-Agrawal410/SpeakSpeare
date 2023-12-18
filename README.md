@@ -6,7 +6,7 @@ In today's world, AI and machine learning are everywhere. We want to offer you a
 
 ## Problem Statement 
 
-Chatbot speaking in Shakespearean language
+To make a Chatbot that speaks in Shakespearean language
 
 ## Project Phases
 
