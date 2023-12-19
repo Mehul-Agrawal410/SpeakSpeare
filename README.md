@@ -21,6 +21,11 @@ This week will be a lighter one for those already familiar with Python. For thos
 Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
 - [W1_Assignment1 dataset](<./Week 1/countries.csv>)
+  
+NOTE : 
+- You have to submit the Collab link of the assignment with comment acsess
+- Do not use ChatGpt
+- This applies for all further assignments
 
 ### [Week 2: Introduction to Neural Networks and Pytorch](<./Week 2/>)
 This week we will learn about what Neural Networds are and how we can implement them using Pytorch
