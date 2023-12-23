@@ -21,6 +21,7 @@ This week will be a lighter one for those already familiar with Python. For thos
 Assignment : Test your Python, Numpy, Pandas and Matplotlib concepts
 - [W1_Assignment1](<./Week 1/Assignment_1.ipynb>) 
 - [W1_Assignment1 dataset](<./Week 1/countries.csv>)
+- [Assignment1 submission](https://docs.google.com/forms/d/1t3v59_KHsocnrBmoRrTOebCyTRmbVJUC1tadpePolEU/edit?ts=65854ff4)
 
 NOTE : 
 - You have to submit the Collab link of the assignment with comment acsess, the google form will be floated on the group
