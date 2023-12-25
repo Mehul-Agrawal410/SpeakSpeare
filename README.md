@@ -37,3 +37,17 @@ This week we will learn about what Neural Networds are and how we can implement 
 Assignment : Implementation of Neural Networks using Pytorch
 - [W2_Assignment1](<./Week 2/NN_using_PyTorch.ipynb>) 
 - [W2_Assignment1 dataset](<./Week 2/pizza_vs_not.zip>)
+
+### [Week 3: Diving into Natural Language Processing](<./Week 3/>)
+Now that you've gained an insight into implementing neural networks, let's shift our focus to the main topic - Natural Language Processing (NLP)
+- [TensorFlow](https://www.youtube.com/watch?v=qFJeN9V1ZsI) : Another great library, It can be used across a range of tasks but has a particular focus on training and inference of deep neural networks
+- [Word Embeddings](https://www.youtube.com/watch?v=CMrHM8a3hqw) : Neural networks cannot process words directly; they deal only with numerical vectors and their computations. In order to feed text as input to a neural network, we will first need to convert it into vector form, using word embeddings. There exist many different techniques (TF-IDF, Skip-gram, CBOW) and implementations (Glove, FastText, etc.) for this purpose.
+- [Text Preprocessing](https://www.analyticsvidhya.com/blog/2021/06/text-preprocessing-in-nlp-with-python-codes/) : Real word text is often not in a format appropriate for analysis. Things like spelling mistakes, punctuations, tenses and more complex concepts of a language are difficult to translate into vector representations. To clean up and simplify the input data, we use several preprocessing techniques. Refer to the below link on the same.
+- [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) : You do not need to enroll for the course, you can audit all the content for free (apply for financial aid, then there will be a option to audit the course). You do not need to solve the assignments, just watch the videos on X2. Try to get the basic feel of what AndreNG is trying to teach, it's okay if you don't get all the concepts but going through it at least once is recommended, with time you will get a deeper understanding of it.
+- For better understanding of RNNs, LSTM and Transformers the following videos are highly recommneded
+  - [RNN](https://www.youtube.com/watch?v=AsNTP8Kwu80)
+  - [LSTM](https://www.youtube.com/watch?v=YCzL96nL7j0)
+  - [Attention Mechanism](https://www.youtube.com/watch?v=PSs6nxngL6k)
+  - [Transformers](https://www.youtube.com/watch?v=zxQyTK8quyY)
+  - ["Attention is all you need" Paper](https://arxiv.org/abs/1706.03762)
+  - ["Attention is all you need" Paper explanation](https://www.youtube.com/watch?v=XowwKOAWYoQ)
