@@ -49,8 +49,8 @@ Now that you've gained an insight into implementing neural networks, let's shift
   - [LSTM](https://www.youtube.com/watch?v=YCzL96nL7j0)
 
  
-<!-- 
-### [Week 4: Diving deeper into Natural Language Processing](<./Week 3/>)
+
+### [Week 4: The final monster (or hero?) Transformers!!](<./Week 4/>)
 This week we will learn about Transformers, the building blocks of ChatGPT
 - [Sequence Models](https://www.coursera.org/learn/nlp-sequence-models) : Complete the remaining two weeks of the course. You do not need to enroll for the course, you can audit all the content for free (apply for financial aid, then there will be a option to audit the course). You do not need to solve the assignments, just watch the videos on X2. Try to get the basic feel of what AndreNG is trying to teach, it's okay if you don't get all the concepts but going through it at least once is recommended, with time you will get a deeper understanding of it.
 - For better understanding of Transformers the following videos are highly recommneded
