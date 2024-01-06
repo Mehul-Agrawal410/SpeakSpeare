@@ -59,6 +59,16 @@ This week we will learn about Transformers, the building blocks of ChatGPT
   - ["Attention is all you need" Paper](https://arxiv.org/abs/1706.03762)
   - ["Attention is all you need" Paper explanation](https://www.youtube.com/watch?v=XowwKOAWYoQ)
 
+ ### [Final Project](<./Final Project/>)
+ Getting your hands dirty
+ -  [Let's Build ChatGPT](https://youtu.be/kCc8FmEb1nY?si=B0r0ENBstnQPheX1) : Completing this video tutorial will be the culminating project for WIDS certification
+ -  Training is quite intensive so use Google Colab's T4 GPU, which you can access for free
+ -  Above video implements a more basic BiGram language model before the powerful but complex transformers architecture. To learn more about the Bigram language model, you can watch the following [video](https://www.youtube.com/watch?v=PaCmpygFfXo) OR if you're confident on yourself, you can just implement the transformer model directly (skip 22:11 to 42:13)
+ -  Additional implementations (Optional)
+    - You can watch the entire [building makemore](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=uAIAgYRh7xG2W1kE) series and follow along to create multiple interesting projects and learn in depth about language modelling. Even if you can't do it now, you may come back later and watch this series as it is quite informative
+    - You can tinker with the model by training it on any other publicly available dataset, such as one of your favourite author's, or the complete scripts of popular movies franchise (likle Star wars or marvel) and show us the interesting results! 
+
+ 
 
 
 
@@ -72,6 +82,3 @@ This week we will learn about Transformers, the building blocks of ChatGPT
 
 
 
-
-
--->
